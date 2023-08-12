@@ -1,4 +1,4 @@
-# Kotlin AppNetwork Checker
+# Kotlin App Network Checker
 
 1. copy NetworkChecker.kt in the folder that MainActivity.kt exist and add your package name in the first line of the file.
 
